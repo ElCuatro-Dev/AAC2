@@ -5,5 +5,12 @@
             "url": "https://github.com/keosuofficial/cordova-audio-stream-plugin.git",
             "subdir": "."
         }
+    },
+    "org.nypr.cordova.playerhaterplugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wnyc/cordova-plugin-playerhater.git",
+            "subdir": "."
+        }
     }
 }
