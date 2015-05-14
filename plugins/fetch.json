@@ -1,0 +1,9 @@
+{
+    "com.keosu.cordova.stream": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/keosuofficial/cordova-audio-stream-plugin.git",
+            "subdir": "."
+        }
+    }
+}
